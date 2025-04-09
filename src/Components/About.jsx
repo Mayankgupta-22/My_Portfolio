@@ -13,24 +13,14 @@ const About = () => {
                     </p>
                 </div>
                 <p className="text-xl mt-20">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-                    qui fugit numquam! Cum vitae temporibus molestiae dicta illum
-                    laboriosam similique at mollitia nihil iusto repellat numquam eos illo
-                    perspiciatis a unde minima commodi id cupiditate laborum iste, beatae
-                    maiores. Voluptatum quisquam dignissimos tempore asperiores sit
-                    ratione officiis officia alias vitae.
+                    I’m a determined developer who values teamwork, proficient in frontend development, and possesses a solid understanding of
+                    data structures and algorithms in C++ currently undergraduate from SSIPMT Raipur, where I acquired a solid foundation insoftware development principles and horned my programming skills.
+
                 </p>
 
                 <br />
 
-                <p className="text-xl">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-                    qui fugit numquam! Cum vitae temporibus molestiae dicta illum
-                    laboriosam similique at mollitia nihil iusto repellat numquam eos illo
-                    perspiciatis a unde minima commodi id cupiditate laborum iste, beatae
-                    maiores. Voluptatum quisquam dignissimos tempore asperiores sit
-                    ratione officiis officia alias vitae.
-                </p>
+
             </div>
         </div>
     );
